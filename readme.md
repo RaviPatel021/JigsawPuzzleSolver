@@ -41,7 +41,7 @@ To get started with **JigsawPuzzleSolver**, you'll need to clone this repository
 
 2. Change the photo path in the notebook to point to your scrambled jigsaw image. Look for the following line in the notebook:
    ```python
-   image_path = "path/to/your/scrambled/image.jpg"  # Change this to your image path
+   path = 'testimages/waves.png'  # Change this to your image path
    ```
 
 3. Modify the debug flag in the notebook to check for errors:
