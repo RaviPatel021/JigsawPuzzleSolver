@@ -20,15 +20,15 @@ Welcome to **JigsawPuzzleSolver**, an intelligent jigsaw puzzle solver that util
 
 ## Installation
 
-To get started with **JigsawGenius**, you'll need to clone this repository and install the required dependencies. Follow these steps:
+To get started with **JigsawPuzzleSolver**, you'll need to clone this repository and install the required dependencies. Follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/JigsawGenius.git
+   git clone https://github.com/RaviPatel021/JigsawPuzzleSolver.git
 
 2. Navigate to the project directory:
     ```bash
-    cd JigsawGenius
+    cd JigsawPuzzleSolver
 
 3. Install the required Python packages:
     ```bash
@@ -41,4 +41,4 @@ This project is a collaborative effort, and we'd like to acknowledge the contrib
 
 - **Ravi Patel** - Project lead and primary contributor
 - **Jason Dang** - Primary contributor
-- **Julia Braun** - Contributor
+- **Julia Braun** - Primary contributor
